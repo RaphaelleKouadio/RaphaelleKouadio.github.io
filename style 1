@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+header,
+section,
+footer {
+  padding: 100px 150px;
+}
+p {
+  font-family: 'roboto', sans-serif;
+}
+
+h1,h2 {
+font-family: 'lobster',cursive;
+}
+
+/* page header */
+header,
+section,
+footer {
+  padding: 100px 150px;
+}
+header{
+  /* loves - things I love  */
+  background: #0000FF;
+}
+  color: blue
+  h1, h2 {
+  margin: 0; /* removes default space */
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My biliingual skills</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </header>
+  <body>
+    <!-- page content here (this is an HTML comment by the way) -->
+
+    <header>
+      <h1> my name is Raphaelle
+        <h2> and I'm belingual
+    </header>
+    <section>
+      <p> before starting learning English, I speek French because it is my first language. I can speak the basic English, I mean answer questions and speak a bit and I speak the real french I mean the France french. I'm speak french well and I keep learning english reading, writting, speaking a bit when I can and listening.  </p>
+    </section>
+
+
+    <section> I like learning and I Want to learn more language after English and French. Nowadays, if you want to travel arround the world or work everywhere
+
+    </section>
+
+  </body>
+
+</html>
